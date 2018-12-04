@@ -1,0 +1,75 @@
+.margen {
+    padding: 30px;
+    margin: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+.justificar {
+    text-align: justify;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.marco {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 0 0px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 2px solid #5878ca;
+}
+
+.marco2 {
+    background-color: rgb(39, 2, 247);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 30px 0px 0px 30x;
+    -moz-border-radius: 30px 0px 0px 30px;
+    -webkit-border-radius: 30px 0px 0px 30px;
+    color: #fff;
+}
+
+.marco3 {
+    background-color: rgb(39, 2, 247);
+    padding: 10px;
+    margin: 10px 10px 10px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 0px 0px 0px 0x;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    color: #fff;
+}
+
+.marco4 {
+    background-color: rgb(39, 2, 247);
+    padding: 10px;
+    margin: 10px 10px 10px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 0px 30px 30px 0x;
+    -moz-border-radius: 0px 30px 30px 0px;
+    -webkit-border-radius: 0px 30px 30px 0px;
+    color: #fff;
+}
+
+.footer {
+    display: block;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background: #007bff;
+    color: #fff;
+    padding: 5px
+}

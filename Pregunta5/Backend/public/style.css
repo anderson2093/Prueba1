@@ -1,0 +1,40 @@
+.margen {
+    padding: 30px;
+    margin: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+.justificar {
+    text-align: justify;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.marco {
+    background-color: #fff;
+    padding: 20px;
+    margin: 30px 0 0px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 2px solid #5878ca;
+}
+
+footer {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background: #007bff;
+    ;
+    color: #fff;
+    padding: 5px
+}
